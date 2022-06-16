@@ -1,2 +1,2 @@
-# vertical-das-quake-detection
-[Pre-release] Earthquake detection using a vertical DAS array
+The up-to-date version is here:
+https://github.com/DAS-RCN/Vertical-DAS-Processing
